@@ -39,7 +39,7 @@ It includes preprocessing, balancing, model training, evaluation, and visualizat
 
 ---
 
-## 🚀 Installation
+## 🚀 Simulation
 
 ```bash
 git clone https://github.com/stephane65133/dataset.git
