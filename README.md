@@ -35,12 +35,13 @@ It includes preprocessing, balancing, model training, evaluation, and visualizat
 - CSV format expected
 - Must contain a `class` column (used as target)
 - Additional network traffic features are used as predictors
+- Public dataset available at: [https://github.com/stephane65133/dataset](https://github.com/stephane65133/dataset)
 
 ---
 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/stephane65133/dataset.git
+cd dataset
 pip install -r requirements.txt
